@@ -10,7 +10,7 @@ In this project you will build such a pipeline.
 
 - [Build an ML Pipeline for Short-Term Rental Prices in NYC](#build-an-ml-pipeline-for-short-term-rental-prices-in-nyc)
   - [Table of contents](#table-of-contents)
-  - [Link to the W&B public project](#link-to-the-wb-public-project)
+  - [Link to the W&B public project and the GitHub repository](#link-to-the-wb-public-project-and-the-github-repository)
   - [Preliminary steps](#preliminary-steps)
     - [Fork the Starter kit](#fork-the-starter-kit)
     - [Create environment](#create-environment)
@@ -34,8 +34,9 @@ In this project you will build such a pipeline.
     - [Train the model on a new data sample](#train-the-model-on-a-new-data-sample)
   - [License](#license)
 
-## Link to the W&B public project
+## Link to the W&B public project and the GitHub repository
 https://wandb.ai/sophieb/nyc_airbnb?workspace=user-sophieb
+https://github.com/lilianabs/nd0821-c2-build-model-workflow-starter/tree/1.0.1
 
 ## Preliminary steps
 ### Fork the Starter kit
