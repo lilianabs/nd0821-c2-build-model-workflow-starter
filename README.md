@@ -35,7 +35,9 @@ In this project you will build such a pipeline.
   - [License](#license)
 
 ## Link to the W&B public project and the GitHub repository
+
 https://wandb.ai/sophieb/nyc_airbnb?workspace=user-sophieb
+
 https://github.com/lilianabs/nd0821-c2-build-model-workflow-starter/tree/1.0.1
 
 ## Preliminary steps
